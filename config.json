@@ -1,13 +1,13 @@
 {
-  "prefix": "??",
+  "prefix": ">",
   "defaultprefix": "!#",
-  "botName": "Shwdow",
+  "botName": "Volcanic",
   "OwnerIDs": [
-    "1260916274804953171",
+    "1275461452055969826",
     "1027140189627371582",
     "869148160558264321"
   ],
-  "botVersion": "v1.3.2",
+  "botVersion": "v1",
   "banned": [
     "1149747911551369267"
   ],
